@@ -21,7 +21,7 @@ A custom, open-source 6-key macropad project utilizing the Seeed XIAO RP2040 mic
 
 | case.png | PCB.png | Schematic.png |
 | :---: | :---: | :---: |
-| ![case.png](images/Case Enclosure) | ![PCB.png](images/PCB Layout) | ![Schematic.png](images/Circuit Schematic) |
+| ![images/case.png](Case Enclosure) | ![images/PCB.png](PCB Layout) | ![images/Schematic.png](Circuit Schematic) |
 ;
 
 
