@@ -19,10 +19,10 @@ A custom, open-source 6-key macropad project utilizing the Seeed XIAO RP2040 mic
 | M3x16mm screws | x4 | For joining the top and bottom of the case |
 | 3D Printed Case | x1 | Custom enclosure |
 
-| case.png | PCB.png | Schematic.png |
+| Case Enclosure | PCB Layout | Circuit Schematic |
 | :---: | :---: | :---: |
-| ![images/case.png](Case Enclosure) | ![images/PCB.png](PCB Layout) | ![images/Schematic.png](Circuit Schematic) |
-;
+| ![Case Enclosure](Case.png) | ![PCB Layout](PCB.png) | ![Circuit Schematic](Schematic.png) |
+
 
 
 ## 📁 Project Structure
