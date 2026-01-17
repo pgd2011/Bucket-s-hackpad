@@ -21,7 +21,7 @@ A custom, open-source 6-key macropad project utilizing the Seeed XIAO RP2040 mic
 
 | Case Enclosure | PCB Layout | Circuit Schematic |
 | :---: | :---: | :---: |
-| ![Case Enclosure](Case.png) | ![PCB Layout](PCB.png) | ![Circuit Schematic](Schematic.png) |
+| ![Case Enclosure](images/Case.png) | ![PCB Layout](images/PCB.png) | ![Circuit Schematic](images/Schematic.png) |
 
 ## 💡 How It Was Made
 The project was created by wiring the switches in a matrix and routing the PCB in KiCad. The mechanical enclosure design took significant effort to finalize the exact dimensions in Fusion 360.
