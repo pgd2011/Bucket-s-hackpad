@@ -1,6 +1,8 @@
 # Bucket's Hackpad: RP2040 Macro Keyboard ⌨️
 
-A custom, open-source 6-key macropad project utilizing the Seeed XIAO RP2040 microcontroller for USB input and RGB lighting.
+A custom 6-key macropad project utilizing the Seeed XIAO RP2040 microcontroller for USB input and RGB lighting.
+
+Built as part of [Hack Club](https://hackclub.com)'s Blueprint program.
 
 ---
 
@@ -24,12 +26,10 @@ A custom, open-source 6-key macropad project utilizing the Seeed XIAO RP2040 mic
 | ![Case Enclosure](images/Case.png) | ![PCB Layout](images/PCB.png) | ![Circuit Schematic](images/Schematic.png) |
 
 ## 💡 How It Was Made
-The project was created by wiring the switches in a matrix and routing the PCB in KiCad. The mechanical enclosure design took significant effort to finalize the exact dimensions in Fusion 360.
+The project was created by wiring the switches in a matrix and routing the PCB in KiCad. The mechanical enclosure design took some effort to finalize the exact dimensions in Fusion 360.
 
-## 😄 Acknowledgments & Motivation
-*   Quote inspiration: "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action." - Dr. A.P.J. Abdul Kalam
-*   A classic joke to lighten the mood: Why don't skeletons fight each other? Because they don't have the guts. LOL!
+## 😄 Acknowledgment
+*   This project wouldn't have been possible without the documentation from HackClub themselves from https://blueprint.hackclub.com/hackpad
+*   My sincere thanks to my elder brother [@P-G-D](https://github.com/P-G-D) for guidance, motivation, and helpful conversations.
 
-## 📜 License
-*Add your license information here, e.g., MIT License.*
 # Bucket-s-hackpad
